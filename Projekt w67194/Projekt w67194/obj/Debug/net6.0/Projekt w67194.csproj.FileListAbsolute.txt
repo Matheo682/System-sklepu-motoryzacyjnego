@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Pulpit\Programowanie obiektowe\Projekt w67194\Projekt w67194\bin\Debug\net6.0\Projekt w67194.exe
+C:\Users\mathe\OneDrive\Pulpit\Programowanie obiektowe\Projekt w67194\Projekt w67194\bin\Debug\net6.0\Projekt w67194.deps.json
+C:\Users\mathe\OneDrive\Pulpit\Programowanie obiektowe\Projekt w67194\Projekt w67194\bin\Debug\net6.0\Projekt w67194.runtimeconfig.json
+C:\Users\mathe\OneDrive\Pulpit\Programowanie obiektowe\Projekt w67194\Projekt w67194\bin\Debug\net6.0\Projekt w67194.dll
+C:\Users\mathe\OneDrive\Pulpit\Programowanie obiektowe\Projekt w67194\Projekt w67194\bin\Debug\net6.0\Projekt w67194.pdb
+C:\Users\mathe\OneDrive\Pulpit\Programowanie obiektowe\Projekt w67194\Projekt w67194\obj\Debug\net6.0\Projekt w67194.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Pulpit\Programowanie obiektowe\Projekt w67194\Projekt w67194\obj\Debug\net6.0\Projekt w67194.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Pulpit\Programowanie obiektowe\Projekt w67194\Projekt w67194\obj\Debug\net6.0\Projekt w67194.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Pulpit\Programowanie obiektowe\Projekt w67194\Projekt w67194\obj\Debug\net6.0\Projekt w67194.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Pulpit\Programowanie obiektowe\Projekt w67194\Projekt w67194\obj\Debug\net6.0\Projekt w67194.dll
+C:\Users\mathe\OneDrive\Pulpit\Programowanie obiektowe\Projekt w67194\Projekt w67194\obj\Debug\net6.0\refint\Projekt w67194.dll
+C:\Users\mathe\OneDrive\Pulpit\Programowanie obiektowe\Projekt w67194\Projekt w67194\obj\Debug\net6.0\Projekt w67194.pdb
+C:\Users\mathe\OneDrive\Pulpit\Programowanie obiektowe\Projekt w67194\Projekt w67194\obj\Debug\net6.0\Projekt w67194.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Pulpit\Programowanie obiektowe\Projekt w67194\Projekt w67194\obj\Debug\net6.0\ref\Projekt w67194.dll
