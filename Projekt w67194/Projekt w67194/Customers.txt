@@ -1,0 +1,6 @@
+1,"John Doe",john@example.com,customerPassword
+2,"Maciej Nowak",maciek@gmail.com,Maciek321
+3,Marian Nowak,marian321,Mario321
+
+
+4,Gojo Satoru,thestrongest@gmail.com,sugurucomeback

@@ -1,2 +1,2 @@
-1, "Admin User", "admin@example.com", "adminUser", "adminPassword"
-2, "Admin2", "admin2@gmail.com", "adminUser2", "adminPassword2"
+1,"Admin User","admin@example.com",adminUser,adminPassword
+2, "Admin2", "admin2@gmail.com",adminUser2,adminPassword2
