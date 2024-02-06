@@ -53,7 +53,6 @@
             Console.WriteLine("1. Admin");
             Console.WriteLine("2. Użytkownik");
             Console.WriteLine("3. Wyjdź");
-            Console.WriteLine("4. Zamówienia dostawców");
             string method = Console.ReadLine();
 
             if (method == "1")
@@ -70,11 +69,7 @@
             {
                 Console.Clear();
                 Menu();
-            }else if (method == "4")
-            {
-                ZamówieniaDostawców.ListaZamówieńDostawców();
-            }
-            else
+            }else
             {
                 Console.Clear();
                 Console.WriteLine("Podano nieprawidłowe dane.");
